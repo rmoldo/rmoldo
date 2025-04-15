@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/radu-moldovan-b57510196/">
-    <img src="https://img.shields.io/badge/-RaduM oldovan-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Radu Moldovan-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rmoldo">
     <img src="https://img.shields.io/github/followers/rmoldo?label=Follow&style=social" />
