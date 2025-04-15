@@ -37,3 +37,25 @@ const radu = {
   learning: ["GraphQL", "CI/CD", "Microservices"],
   funFact: "I make a mean cup of coffee ☕"
 }
+```
+
+---
+ 
+### 🌍 Let's Connect
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+
+I'm always open to connecting with new people, collaborating on interesting ideas, or just chatting about tech & life.
+
+📬 Drop me a message or connect on LinkedIn
+
+---
+
+### 🔧 Projects Under Construction
+
+- 🤖 I'm currently building a **Discord bot** using **discord.js**!
+  - 🔍 Features include:
+    - **Anime & Manga Search** powered by public APIs
+    - 🧠 **Image generation** using **Mistral AI**
+    - 🚫 Smart **bot & malicious user blacklisting** for safer communities
+  - 💡 Built with modularity in mind and designed to be fun + helpful!
+
