@@ -41,8 +41,7 @@ const radu = {
 
 ---
  
-### 🌍 Let's Connect
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
+### 🌍 Let's Connect <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 
 I'm always open to connecting with new people, collaborating on interesting ideas, or just chatting about tech & life.
 
